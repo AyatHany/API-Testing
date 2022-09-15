@@ -1,0 +1,44 @@
+Authors:
+- API: GET /api/v1/Authors
+  Test Case: response should be 200 OK
+  Expected Result: 200 OK
+  Actual Result: 200 OK
+  Status: Pass
+
+- API: GET /api/v1/Authors
+  Test Case: response should be 200 OK
+  Expected Result: 200 OK
+  Actual Result: 200 OK
+  Status: Pass
+
+- API: GET /api/v1/Authors/authors/books/{idBook}
+  Test Case: response should be 200 OK
+  Expected Result: 200 OK
+  Actual Result: 200
+  Status: pass
+
+- API: POST /api/v1/Authors
+  Test Case1: response should be 201 created
+  Expected Result: 201 created
+  Actual Result: 200 OK
+  Status: fail
+
+- API: POST /api/v1/Authors
+  Test Case2: response should be 400
+  Expected Result: 400
+  Actual Result: 200 OK
+  Status: fail
+
+- API: PUT /api/v1/Authors/{id}
+  Test Case1: response should be 200 OK
+  Expected Result: 200 OK
+  Actual Result: 200 OK
+  Status: Pass
+
+- API: GET /api/v1/Authors/{id}
+  Test Case: response should be pass
+  Expected Result: 200 OK
+  Actual Result: 200 OK
+  Status: fail
+
+

@@ -1,0 +1,107 @@
+{
+    "id": "5fbd33556ae51a41f111b7a1",
+    "aaId": "5e7faa3c2864400c2af245b0",
+    "activityBlocked": false,
+    "avatarHash": "0dd3063511b23d3907b4ad0ffe54ed3d",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/5fbd33556ae51a41f111b7a1/0dd3063511b23d3907b4ad0ffe54ed3d",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "ayat hany",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "AH",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/ayathany",
+    "username": "ayathany",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "ayathany26@gmail.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "2494aca34959975afa292ba3f9fddc43",
+    "idBoards": [
+        "5fbd3439a8e98e3bee8c3510"
+    ],
+    "idOrganizations": [
+        "5fbd33c2adbd6e55f59496b5"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2020-11-24T16:22:47.255Z"
+    },
+    "messagesDismissed": [
+        {
+            "_id": "5fbd33c317db336cd2eb77cb",
+            "name": "team-join-cta-banner-5fbd33c2adbd6e55f59496b5",
+            "count": 1,
+            "lastDismissed": "2020-11-24T16:24:35.349Z"
+        }
+    ],
+    "oneTimeMessagesDismissed": [
+        "sent-possible-new-signup-event",
+        "close-menu-of-first-board"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "18",
+    "boards": [
+        {
+            "id": "5fbd3439a8e98e3bee8c3510",
+            "name": "fantacy",
+            "closed": false,
+            "idOrganization": "5fbd33c2adbd6e55f59496b5",
+            "pinned": false
+        }
+    ]
+}
